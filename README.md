@@ -29,3 +29,7 @@ BCMS Queue name： 云消息队列名
 最后一点：访问管理后台，要加 /wp-admin/index.php.
 ===
 程序修改作者hjin-me，部署logdns
+
+程序演示：
+http://blog.xiaofengsky.com/
+===
