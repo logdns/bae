@@ -15,11 +15,11 @@ bae
 * 点创建
  然后写入如下：
 ===
- 'Database Name ：  云数据库名'
+ ‘Database Name ：  云数据库名‘
 
- 'Table Prefix  ：  wp-'
+ ‘Table Prefix  ：  wp-‘
 
- 'BCMS Queue name： 云消息队列名'
+ ‘BCMS Queue name： 云消息队列名‘
 
 * 然后直接下一步，会提示没有写入权限！自己复制代码，创建wp-config.php文件，上传！
 * 其他的安装就和WP正常安装一样！
