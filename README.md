@@ -1,6 +1,6 @@
 bae
 ===
-在BAE上部署WordPress：
+* 在BAE上部署WordPress：
 准备工作.
 ===
 * BAE：http://developer.baidu.com/ 
